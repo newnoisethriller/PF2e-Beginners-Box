@@ -1,0 +1,22 @@
+{
+  "name": "PF2e-Beginner-Box-Maps-by-Calpal",
+  "title": "Remade Pathfinder 2e Beginner Box Maps",
+  "description": "<p>The Pathfinder 2e Beginner Box Maps redone using Dungeondraft.</p>",
+  "version": "1.0.0",
+  "minimumCoreVersion": "0.8.0",
+  "compatibleCoreVersion": "0.8.9",
+  "author": "Calpal",
+  "packs": [
+    {
+      "name": "beginners-box-map",
+      "label": "Beginners Box Remake",
+      "path": "/packs/beginners-box-map.db",
+      "entity": "Scene"
+    },      
+    
+  ],
+  
+  "url": "",
+  "manifest": "https://1drv.ms/u/s!ApDdV3vSwjA86tozPJSDwQPcWgmj5w?e=nwPGab",
+  "download": "https://1drv.ms/u/s!ApDdV3vSwjA86toym4XuDv0bbYlnYQ?e=ShAuG0"
+}

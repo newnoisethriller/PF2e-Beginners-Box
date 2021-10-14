@@ -17,6 +17,6 @@
   ],
   
   "url": "https://github.com/newnoisethriller/PF2e-Beginners-Box",
-  "manifest": "https://github.com/newnoisethriller/PF2e-Beginners-Box/blob/main/module.json",
+  "manifest": "https://raw.githubusercontent.com/newnoisethriller/PF2e-Beginners-Box/main/module.json",
   "download": "https://github.com/newnoisethriller/PF2e-Beginners-Box/blob/main/PF2e-Beginner-Box-Maps-by-Calpal.zip"
 }
